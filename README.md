@@ -1,3 +1,5 @@
+test
+
 # ColinTalksCrypto Bitcoin Bull Run Index (CBBI)
 
 ![Python version](https://shields.monicz.dev/badge/python-v3.12-blue)
